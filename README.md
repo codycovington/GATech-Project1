@@ -1,4 +1,4 @@
-##Project 1
+##Project 1 - BloodStream
 ##Georgia Tech Bootcamp
 ##Developers
 Danielle Garcia 
